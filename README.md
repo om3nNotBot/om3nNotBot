@@ -1,75 +1,67 @@
-<h1 align="center">🌸 Welcome to My World 🌸</h1>
+<h1 align="center">Hi 👋, I'm om3n</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gij+👋;C%2B%2B+Developer+💻;Anime+Enjoyer+🌸;Building+My+Future+🚀">
+  💻 Full Stack Developer • ⚡ Problem Solver • 🚀 Always Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%2B%2B+%7C+C%23+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript;Building+cool+things+every+day+🚀">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0e/57/9d/0e579d1a8b8c1b0dff3f3c6b9b9c9d7a.gif" width="600"/>
-</p>
-
----
-
-## 🌸 About Me
+## 🚀 About Me
 
 ```yaml
 Name: om3n
-Role: Developer
-Focus: Problem Solving & System Building
-Passion: Coding 💻
-Mindset: Keep going no matter what 🚀
+Username: om3nNotBot
+Role: Full Stack Developer
+Languages: C++, C#, Python, Java, JavaScript
+Frontend: HTML, CSS
+Focus: Clean Code & Real Projects
+Mindset: Learn • Build • Repeat
 ```
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 🌙 Current Journey
+## 📊 GitHub Stats
 
 <p align="center">
-  💻 Building projects in C++ <br>
-  🧠 Improving logic & algorithms <br>
-  🔥 Becoming better every day
+  <img src="https://github-readme-stats.vercel.app/api?username=om3nNotBot&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om3nNotBot&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Power
+## ⚡ Current Goals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌌 Aesthetic Line
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=120&section=footer"/>
+  🔹 Build strong backend systems <br>
+  🔹 Improve problem-solving skills <br>
+  🔹 Create real-world projects <br>
 </p>
 
 ---
 
-## 🌸 Quote
+## 🌐 Connect
 
 <p align="center">
-  <i>"Even the darkest night will end, and the sun will rise."</i> 🌙
+  <a href="https://github.com/om3nNotBot">GitHub Profile</a>
 </p>
 
 ---
 
 <p align="center">
-  🌸 Thanks for visiting 🌸
+  ⚡ "Code. Learn. Improve. Repeat." ⚡
 </p>
