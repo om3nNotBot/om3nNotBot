@@ -47,16 +47,7 @@ status   : ⚡ Currently Coding...
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=om3nNotBot&show_icons=true&theme=merko&hide_border=true&bg_color=0a0f1a&title_color=00ff88&icon_color=00ccff&text_color=c8e0f4&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=om3nNotBot&theme=merko&hide_border=true&background=0a0f1a&stroke=00ff88&ring=ff6b35&fire=ffd700&currStreakLabel=00ccff&sideLabels=c8e0f4&dates=7a9bb5&currStreakNum=ffffff" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om3nNotBot&layout=donut&theme=merko&hide_border=true&bg_color=0a0f1a&title_color=00ff88&text_color=c8e0f4&langs_count=8&cache_seconds=1800" />
-
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=om3nNotBot&theme=github_dark)
+<img src="https://streak-stats.demolab.com?user=om3nNotBot&theme=merko&hide_border=true&background=0a0f1a&stroke=00ff88&ring=ff6b35&fire=ffd700&currStreakLabel=00ccff&sideLabels=c8e0f4&dates=7a9bb5&currStreakNum=ffffff" />
 
 </div>
 
