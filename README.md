@@ -15,21 +15,7 @@
 ---
 
 <div align="center">
-
-![om3n](https://i.imgur.com/uepZl5e.gif)
-
-> **⚠️ GIF-i göstərmək üçün:** Tenor/Giphy linklərini GitHub bloklayır.
-> GIF-i yüklə → [imgur.com](https://imgur.com) → linki buraya yapışdır.
->
-> **1-ci GIF:** `https://tenor.com/uepZl5eCkSM.gif` → imgur-a yüklə
-> **2-ci GIF:** `https://media1.tenor.com/m/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif` → imgur-a yüklə
->
-> Sonra bu 2 sətri dəyiş:
-> ```
-> ![gif1](BURAYA_1CI_IMGUR_LINK)
-> ![gif2](BURAYA_2CI_IMGUR_LINK)
-> ```
-
+<img src="https://raw.githubusercontent.com/om3nNotBot/om3nNotBot/main/gojo.gif" width="480" alt="gojo"/>
 </div>
 
 ---
@@ -76,87 +62,7 @@ status   : ⚡ Currently Coding...
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
-  <rect width="800" height="120" fill="#0a0f1a" rx="10"/>
-
-  <!-- Dashed guide path glow -->
-  <path d="M0,60 C100,60 100,25 200,25 C300,25 300,95 400,95 C500,95 500,20 600,20 C700,20 700,70 800,70"
-    fill="none" stroke="#00ff88" stroke-width="1.5" stroke-dasharray="6 10" opacity="0.12">
-    <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- Food items -->
-  <circle cx="100" cy="60" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="0.8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="0.8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="25" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="1.1s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="1.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="320" cy="80" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="0.9s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="0.9s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="450" cy="55" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="1.3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="1.3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="580" cy="20" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="1.0s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="1.0s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="70" r="5" fill="#ff3333">
-    <animate attributeName="r" values="5;7;5" dur="0.7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>
-  </circle>
-
-  <defs>
-    <path id="sp" d="M-60,60 C100,60 100,25 200,25 C300,25 300,95 400,95 C500,95 500,20 600,20 C700,20 700,70 860,70"/>
-  </defs>
-
-  <!-- Tail segments (fading) -->
-  <rect width="12" height="12" rx="3" fill="#00ff8815" x="-6" y="-6">
-    <animateMotion dur="4s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff8825" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-0.18s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff8840" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-0.36s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff8860" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-0.54s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff8880" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-0.72s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff88a0" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-0.90s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff88c0" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-1.08s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff88e0" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-1.26s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <rect width="12" height="12" rx="3" fill="#00ff88ff" x="-6" y="-6">
-    <animateMotion dur="4s" begin="-1.44s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-
-  <!-- Head -->
-  <rect width="16" height="16" rx="5" fill="#00ff88" x="-8" y="-8">
-    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </rect>
-  <!-- Eye 1 -->
-  <circle r="2.5" fill="#0a0f1a" cx="-8" cy="-8">
-    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </circle>
-  <!-- Eye 2 -->
-  <circle r="2.5" fill="#0a0f1a" cx="-8" cy="8">
-    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
-  </circle>
-</svg>
+<img src="https://raw.githubusercontent.com/om3nNotBot/om3nNotBot/main/snake.svg" alt="snake"/>
 
 </div>
 
