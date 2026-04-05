@@ -1,30 +1,38 @@
-<h1 align="center">Hi 👋, I'm om3n</h1>
+<h1 align="center">OM3N ⚡</h1>
 
 <p align="center">
-  💻 Full Stack Developer • ⚡ Problem Solver • 🚀 Always Learning
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%2B%2B+%7C+C%23+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript;Building+cool+things+every+day+🚀">
+  <b>Full Stack Developer</b> • C++ | C# | Python | Java | JS
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚽ OM3N Goal Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  ⚽ Player shoots... <br>
+  🥅 GOOOOAL!!! <br>
+  🔥 OM3N scores!
+</p>
+
+---
+
+## 🧠 About Me
 
 ```yaml
 Name: om3n
 Username: om3nNotBot
 Role: Full Stack Developer
-Languages: C++, C#, Python, Java, JavaScript
-Frontend: HTML, CSS
-Focus: Clean Code & Real Projects
-Mindset: Learn • Build • Repeat
+Stack: [C++, C#, Python, Java, JavaScript, HTML, CSS]
+Focus: Real Projects & Clean Code
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,html,css,git,github,vscode" />
@@ -32,36 +40,44 @@ Mindset: Learn • Build • Repeat
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Interactive Zone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om3nNotBot&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om3nNotBot&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Initializing+OM3N...;Loading+Skills...;Ready+to+Build+🔥">
 </p>
 
 ---
 
-## ⚡ Current Goals
+## 🐍 Contribution Snake
 
 <p align="center">
-  🔹 Build strong backend systems <br>
-  🔹 Improve problem-solving skills <br>
-  🔹 Create real-world projects <br>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 📊 GitHub Stats (Fixed)
 
 <p align="center">
-  <a href="https://github.com/om3nNotBot">GitHub Profile</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=om3nNotBot&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=om3nNotBot&theme=dark" />
 </p>
 
 ---
 
+## 🎯 Mission
+
 <p align="center">
-  ⚡ "Code. Learn. Improve. Repeat." ⚡
+  Build. Break. Learn. Repeat. 🚀
+</p>
+
+---
+
+## ⚡ Hidden Power
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=120&section=footer"/>
 </p>
