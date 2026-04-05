@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<img src="https://media.tenor.com/uepZl5eCkSM/gif" width="480"/>
+<img src="https://media1.tenor.com/m/uepZl5eCkSM/gif" width="480" alt="om3n gif"/>
 </div>
 
 ---
@@ -62,47 +62,104 @@ status   : ⚡ Currently Coding...
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/om3nNotBot/om3nNotBot/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/om3nNotBot/om3nNotBot/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://github.com/om3nNotBot/om3nNotBot/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <rect width="800" height="100" fill="#0a0f1a" rx="8"/>
+
+  <!-- Food dots scattered along path -->
+  <circle cx="60"  cy="50" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+  <circle cx="160" cy="30" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="260" cy="70" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="25" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.0s" repeatCount="indefinite"/></circle>
+  <circle cx="460" cy="75" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <circle cx="560" cy="35" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/></circle>
+  <circle cx="660" cy="65" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="45" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+
+  <!-- Snake body segments following a wave path -->
+  <!-- Segment trail (tail to neck) - fading green -->
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8811">
+    <animateMotion dur="3.5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8822">
+    <animateMotion dur="3.5s" begin="-0.15s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8833">
+    <animateMotion dur="3.5s" begin="-0.30s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8844">
+    <animateMotion dur="3.5s" begin="-0.45s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8866">
+    <animateMotion dur="3.5s" begin="-0.60s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8888">
+    <animateMotion dur="3.5s" begin="-0.75s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88aa">
+    <animateMotion dur="3.5s" begin="-0.90s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88cc">
+    <animateMotion dur="3.5s" begin="-1.05s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88ee">
+    <animateMotion dur="3.5s" begin="-1.20s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+      <mpath href="#snakepath"/>
+    </animateMotion>
+  </rect>
+
+  <!-- Snake HEAD -->
+  <g>
+    <rect x="-5" y="42" width="14" height="14" rx="4" fill="#00ff88">
+      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+        <mpath href="#snakepath"/>
+      </animateMotion>
+    </rect>
+    <!-- Eyes -->
+    <circle cx="3" cy="46" r="2" fill="#0a0f1a">
+      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+        <mpath href="#snakepath"/>
+      </animateMotion>
+    </circle>
+    <circle cx="3" cy="54" r="2" fill="#0a0f1a">
+      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
+        <mpath href="#snakepath"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- The wave path the snake follows -->
+  <defs>
+    <path id="snakepath" d="M-20,50 C 80,50 80,20 160,20 C 240,20 240,80 320,80 C 400,80 400,15 480,15 C 560,15 560,75 640,75 C 720,75 720,40 820,40"/>
+  </defs>
+
+  <!-- Glow trail effect -->
+  <path d="M-20,50 C 80,50 80,20 160,20 C 240,20 240,80 320,80 C 400,80 400,15 480,15 C 560,15 560,75 640,75 C 720,75 720,40 820,40"
+    fill="none" stroke="#00ff88" stroke-width="1" stroke-dasharray="8 12" opacity="0.15">
+    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="2s" repeatCount="indefinite"/>
+  </path>
+</svg>
 
 </div>
-
-<details>
-<summary>🔧 Snake setup</summary>
-
-`.github/workflows/snake.yml` faylını yarat:
-
-```yaml
-name: Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
