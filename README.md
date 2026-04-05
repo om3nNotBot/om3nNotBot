@@ -1,23 +1,33 @@
-# ⚡ OM3N ⚡
-
-### Full Stack Developer | Clean Code Addict
+# 🩸 OM3N.exe
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Code.+Create.+Dominate.;Real+Projects+Only.;No+Trash+Code.;Clean+%3D+Power" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;WELCOME+TO+OM3N;REAL+CODE+ONLY;NO+NPC+DEVS" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🐍 SYSTEM CORE
 
-* **Name:** OM3N
-* **Username:** om3nNotBot
-* **Role:** Full Stack Developer
-* **Focus:** Real Projects & Clean Code
+<p align="center">
+  <!-- Snake eating contribution graph -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## ⚔️ Tech Stack
+## 🧠 PROFILE
+
+```diff
++ Name: OM3N
++ Username: om3nNotBot
++ Role: Full Stack Developer
++ Mode: Beast
++ Focus: Real Projects & Clean Code
+```
+
+---
+
+## ⚔️ STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,html,css" />
@@ -25,28 +35,27 @@
 
 ---
 
-## 🔥 Philosophy
+## 🔥 ENERGY MODE
 
-> Code ya təmiz olar, ya da ümumiyyətlə yazılmamalıdır.
-
-* ⚡ Fast
-* 🧼 Clean
-* 🎯 Practical
-* 🧠 Smart Solutions Only
+<p align="center">
+  <!-- Anime GIF (Gojo / Sukuna vibe) -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+</p>
 
 ---
 
-## 🩸 Current Mode
+## 🧬 LIVE STATUS
 
 ```bash
-> Building real stuff...
-> Learning never stops...
-> Debugging life...
+> loading skills...
+> injecting caffeine...
+> building real projects...
+> destroying bugs...
 ```
 
 ---
 
-## 🚀 Stats
+## 🚀 STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=om3nNotBot&show_icons=true&theme=radical" />
@@ -55,28 +64,14 @@
 
 ---
 
-## 🧬 Contribution
+## 🧨 PHILOSOPHY
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om3nNotBot&theme=redical" />
-</p>
+> "Weak code gets deleted. Strong code survives."
 
 ---
 
-## 🩸 Vibe (Red x Black Energy)
+## 🩸 FINAL MESSAGE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
-</p>
-
----
-
-## 🧨 Quote
-
-> I don’t write code for fun. I build things that work.
-
----
-
-<p align="center">
-  🔴 OM3N | SYSTEM ONLINE 🔴
+  🔴 YOU ARE WATCHING OM3N 🔴  
 </p>
