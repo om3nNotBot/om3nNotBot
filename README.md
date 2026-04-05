@@ -15,14 +15,26 @@
 ---
 
 <div align="center">
-<img src="https://media1.tenor.com/m/uepZl5eCkSM/gif" width="480" alt="om3n gif"/>
+
+![om3n](https://i.imgur.com/uepZl5e.gif)
+
+> **⚠️ GIF-i göstərmək üçün:** Tenor/Giphy linklərini GitHub bloklayır.
+> GIF-i yüklə → [imgur.com](https://imgur.com) → linki buraya yapışdır.
+>
+> **1-ci GIF:** `https://tenor.com/uepZl5eCkSM.gif` → imgur-a yüklə
+> **2-ci GIF:** `https://media1.tenor.com/m/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif` → imgur-a yüklə
+>
+> Sonra bu 2 sətri dəyiş:
+> ```
+> ![gif1](BURAYA_1CI_IMGUR_LINK)
+> ![gif2](BURAYA_2CI_IMGUR_LINK)
+> ```
+
 </div>
 
 ---
 
 ## 🧠 About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name     : om3n
@@ -32,8 +44,6 @@ stack    : [C++, C#, Python, Java, JS, HTML, CSS]
 focus    : Real Projects & Clean Code
 status   : ⚡ Currently Coding...
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -66,97 +76,86 @@ status   : ⚡ Currently Coding...
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
-  <rect width="800" height="100" fill="#0a0f1a" rx="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <rect width="800" height="120" fill="#0a0f1a" rx="10"/>
 
-  <!-- Food dots scattered along path -->
-  <circle cx="60"  cy="50" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
-  <circle cx="160" cy="30" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/></circle>
-  <circle cx="260" cy="70" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
-  <circle cx="360" cy="25" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.0s" repeatCount="indefinite"/></circle>
-  <circle cx="460" cy="75" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-  <circle cx="560" cy="35" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/></circle>
-  <circle cx="660" cy="65" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
-  <circle cx="750" cy="45" r="4" fill="#ff4444"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+  <!-- Dashed guide path glow -->
+  <path d="M0,60 C100,60 100,25 200,25 C300,25 300,95 400,95 C500,95 500,20 600,20 C700,20 700,70 800,70"
+    fill="none" stroke="#00ff88" stroke-width="1.5" stroke-dasharray="6 10" opacity="0.12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="2s" repeatCount="indefinite"/>
+  </path>
 
-  <!-- Snake body segments following a wave path -->
-  <!-- Segment trail (tail to neck) - fading green -->
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8811">
-    <animateMotion dur="3.5s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8822">
-    <animateMotion dur="3.5s" begin="-0.15s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8833">
-    <animateMotion dur="3.5s" begin="-0.30s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8844">
-    <animateMotion dur="3.5s" begin="-0.45s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8866">
-    <animateMotion dur="3.5s" begin="-0.60s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff8888">
-    <animateMotion dur="3.5s" begin="-0.75s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88aa">
-    <animateMotion dur="3.5s" begin="-0.90s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88cc">
-    <animateMotion dur="3.5s" begin="-1.05s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
-  <rect x="0" y="44" width="10" height="10" rx="3" fill="#00ff88ee">
-    <animateMotion dur="3.5s" begin="-1.20s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#snakepath"/>
-    </animateMotion>
-  </rect>
+  <!-- Food items -->
+  <circle cx="100" cy="60" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="25" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="320" cy="80" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="55" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="580" cy="20" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="1.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="70" r="5" fill="#ff3333">
+    <animate attributeName="r" values="5;7;5" dur="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>
+  </circle>
 
-  <!-- Snake HEAD -->
-  <g>
-    <rect x="-5" y="42" width="14" height="14" rx="4" fill="#00ff88">
-      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-        <mpath href="#snakepath"/>
-      </animateMotion>
-    </rect>
-    <!-- Eyes -->
-    <circle cx="3" cy="46" r="2" fill="#0a0f1a">
-      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-        <mpath href="#snakepath"/>
-      </animateMotion>
-    </circle>
-    <circle cx="3" cy="54" r="2" fill="#0a0f1a">
-      <animateMotion dur="3.5s" begin="-1.35s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-        <mpath href="#snakepath"/>
-      </animateMotion>
-    </circle>
-  </g>
-
-  <!-- The wave path the snake follows -->
   <defs>
-    <path id="snakepath" d="M-20,50 C 80,50 80,20 160,20 C 240,20 240,80 320,80 C 400,80 400,15 480,15 C 560,15 560,75 640,75 C 720,75 720,40 820,40"/>
+    <path id="sp" d="M-60,60 C100,60 100,25 200,25 C300,25 300,95 400,95 C500,95 500,20 600,20 C700,20 700,70 860,70"/>
   </defs>
 
-  <!-- Glow trail effect -->
-  <path d="M-20,50 C 80,50 80,20 160,20 C 240,20 240,80 320,80 C 400,80 400,15 480,15 C 560,15 560,75 640,75 C 720,75 720,40 820,40"
-    fill="none" stroke="#00ff88" stroke-width="1" stroke-dasharray="8 12" opacity="0.15">
-    <animate attributeName="stroke-dashoffset" from="0" to="-100" dur="2s" repeatCount="indefinite"/>
-  </path>
+  <!-- Tail segments (fading) -->
+  <rect width="12" height="12" rx="3" fill="#00ff8815" x="-6" y="-6">
+    <animateMotion dur="4s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff8825" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-0.18s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff8840" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-0.36s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff8860" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-0.54s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff8880" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-0.72s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff88a0" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-0.90s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff88c0" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-1.08s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff88e0" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-1.26s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <rect width="12" height="12" rx="3" fill="#00ff88ff" x="-6" y="-6">
+    <animateMotion dur="4s" begin="-1.44s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+
+  <!-- Head -->
+  <rect width="16" height="16" rx="5" fill="#00ff88" x="-8" y="-8">
+    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </rect>
+  <!-- Eye 1 -->
+  <circle r="2.5" fill="#0a0f1a" cx="-8" cy="-8">
+    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </circle>
+  <!-- Eye 2 -->
+  <circle r="2.5" fill="#0a0f1a" cx="-8" cy="8">
+    <animateMotion dur="4s" begin="-1.62s" repeatCount="indefinite" rotate="auto"><mpath href="#sp"/></animateMotion>
+  </circle>
 </svg>
 
 </div>
